@@ -8,4 +8,3 @@ Doesn't work in WP network/multisite, haven't tested it in latest version of WP.
 
 This code is from 2011 and will probably not work well. 
 
-Here's some screenshots:
